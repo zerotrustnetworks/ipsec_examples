@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  alice:
+    build: .
+    command: bash
+  bob:
+    build: .
+    command: bash

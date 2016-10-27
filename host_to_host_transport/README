@@ -1,0 +1,4 @@
+IPsec transport mode with X.509 certificates
+
+Based on StrongSwan example configuration:
+  https://www.strongswan.org/testing/testresults/ikev2/host2host-transport/
